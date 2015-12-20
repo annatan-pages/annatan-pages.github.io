@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>anna.io</title><link href="http://anna.io/" rel="alternate"></link><link href="http://anna.io/feeds/anna-ogawa.atom.xml" rel="self"></link><id>http://anna.io/</id><updated>2015-12-20T00:00:00+09:00</updated><entry><title>てきとう</title><link href="http://anna.io/2015/hello/" rel="alternate"></link><updated>2015-12-20T00:00:00+09:00</updated><author><name>Anna Ogawa</name></author><id>tag:anna.io,2015-12-20:2015/hello/</id><summary type="html">&lt;p&gt;てきとう。&lt;/p&gt;</summary></entry></feed>
